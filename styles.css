@@ -1,0 +1,28 @@
+body {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    font-family: 'Mulish', sans-serif;
+    height: 100vh;
+}
+
+h2 {
+    margin-bottom: 50px;
+}
+
+h3 {
+    margin: 10px;
+}
+
+h4 {
+    margin-top: 50px;
+}
+
+#titlesContainer {
+
+    text-align: center;
+    border: 2px solid #8c0c9a75;
+    padding: 50px;
+    border-radius: 8px;
+}
